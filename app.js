@@ -103,7 +103,7 @@ function renderDojos(dojos) {
                 <div class="text-sm flex flex-wrap gap-1">${instructorList}</div>
             </div>
             <a href="#contact" class="inline-block w-full text-center border border-karate-red text-karate-red hover:bg-karate-red hover:text-white font-bold py-2 px-4 rounded transition-colors duration-300 uppercase text-sm tracking-wider">
-                Book Trial
+                Book Visit
             </a>
         `;
         
